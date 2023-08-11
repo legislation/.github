@@ -3,7 +3,7 @@
 We are the Legislation Services team at The National Archives. Along with our partners, we are responsible for:
 
  * Lawmaker, a service to help draft and manage UK and Scottish legislation 
- * [legislation.gov.uk](https://www.legislation.gov.uk/), a service that makes the UK statute book (and its metadata) available freely to all to read and reuse
+ * [Legislation.gov.uk](https://www.legislation.gov.uk/), a service that makes the UK statute book (and its metadata) available freely to all to read and reuse
 
 This GitHub page hosts code we use to deliver these services, as well as documentation relating to our APIs and data models.
 
